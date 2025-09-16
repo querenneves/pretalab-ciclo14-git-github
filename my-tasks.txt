@@ -1,0 +1,31 @@
+┌─────────────────────────────────────────────────────────────┐
+│                  📝 TAREFAS - GIT & GITHUB                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ✅ CRIAR ARQUIVO README.MD COM:                            │
+│     ✔️ Sumário com links âncora funcionais                  │
+│     ✔️ Seção de Branches com comandos Git                   │
+│     ✔️ Seção de Stash com comandos                          │
+│     ✔️ Seção de Tags com comandos                           │
+│     ✔️ Seção de Aliases com exemplos                        │
+│     ✔️ Resumo dos tópicos cobertos                          │
+│     ✔️ Links para documentação oficial                      │
+│                                                             │
+│  🎯 CONTEÚDO DO README:                                     │
+│     • Título: 📚 Aulas de Git e GitHub                      │
+│     • Descrição: Anotações práticas de comandos             │
+│     • Organização simples para consulta rápida              │
+│                                                             │
+│  🔗 LINKS INCLUÍDOS:                                        │
+│     • Âncoras internas para navegação                       │
+│     • Documentação oficial do Git                           │
+│     • GitHub Guides                                         │
+│     • Git Cheat Sheet                                       │
+│                                                             │
+│  💻 COMANDOS PRINCIPAIS:                                    │
+│     • git branch, checkout, merge                           │
+│     • git stash, stash pop                                  │
+│     • git tag, push tags                                    │
+│     • git config alias                                      │
+│                                                             │                │
+└─────────────────────────────────────────────────────────────┘
